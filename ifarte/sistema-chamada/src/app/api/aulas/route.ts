@@ -46,7 +46,7 @@ export async function GET(request: Request) {
         const aulas = querySnapshot.docs.map(doc => ({
             id: doc.id,
             ...doc.data(),
-            data: doc.data().data // Mantém como string ISO
+            data: doc.data().data
         }))
 
         return NextResponse.json({ aulas }, { status: 200 })
