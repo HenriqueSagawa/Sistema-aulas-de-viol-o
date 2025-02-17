@@ -23,21 +23,21 @@ export default function Home() {
       id: "1",
       titulo: "Turma Iniciante",
       descricao: "Aulas para iniciantes em violão",
-      horario: "Quinta - 13h30",
+      horario: "Quinta - 14h30",
       totalAlunos: 0
     },
     {
       id: "2",
       titulo: "Turma Intermediária",
       descricao: "Aulas para alunos de nível intermediário",
-      horario: "Quinta - 14h30",
+      horario: "Quinta - 15h30",
       totalAlunos: 0
     },
     {
       id: "3",
       titulo: "Turma dos Idosos",
       descricao: "Aulas para alunos idosos",
-      horario: "Quinta - 15h30",
+      horario: "Quinta - 13h30",
       totalAlunos: 0
     }
   ]
