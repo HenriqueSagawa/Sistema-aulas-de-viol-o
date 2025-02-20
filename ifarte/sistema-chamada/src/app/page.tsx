@@ -39,6 +39,13 @@ export default function Home() {
       descricao: "Aulas para alunos idosos",
       horario: "Quinta - 13h30",
       totalAlunos: 0
+    },
+    {
+      id: "4",
+      titulo: "Oficina do Música",
+      descricao: "Oficinas de música do IFPR",
+      horario: "",
+      totalAlunos: ""
     }
   ]
 
