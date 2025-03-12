@@ -45,7 +45,7 @@ export default function Home() {
       titulo: "Oficina do Música",
       descricao: "Oficinas de música do IFPR",
       horario: "Quarta: 13:10 - 14:15",
-      totalAlunos: ""
+      totalAlunos: 0
     }
   ]
 
